@@ -1,1 +1,1 @@
-# HTML Basic resume-page project .
+# Resume basic Page using html .
